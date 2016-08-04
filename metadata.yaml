@@ -1,0 +1,24 @@
+_repo: My-Three-Days-in-Gilead_4322
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoenshel, Elmer U. (Elmer Ulysses)
+    alias: Hoenshel, Elmer Ulysses
+    birthdate: 1864
+    gutenberg_agent_id: '1442'
+    url: http://www.gutenberg.org/2009/agents/1442
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palestine -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: My Three Days in Gilead
+url: http://www.gutenberg.org/ebooks/4322
